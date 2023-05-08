@@ -1,5 +1,5 @@
 # EE541_project
-4 different Python Notebooks were used in this project
+4 different Python Notebooks were used in this project. All imports used in each file are mentioned at the top of the file
 
 While running any of the below files please change the dataset folder paths according to the paths required by your local PC
 
