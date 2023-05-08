@@ -1,5 +1,5 @@
 # EE541_project
-This folder consists of 4 different Python Notebooks which we used in our project
+4 different Python Notebooks were used in this project
 
 While running any of the below files please change the dataset folder paths according to the paths required by your local PC
 
